@@ -11,6 +11,7 @@ Automates routine tasks to interact with the Instagram platform.
 OrangeHRM Automation
 
 Simplifies testing workflows within the OrangeHRM application.
+
 Technologies Used
 Programming Language: Python
 Testing Framework: Selenium WebDriver
